@@ -1,0 +1,22 @@
+{
+    "name": "zp/try-make-package",
+    "description": "try make a pacakge",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+          "Flower\\Rose\\": "src/Flower/Rose",
+          "Flower\\Lily\\": "src/Flower/Lily"
+        }
+    },
+    "authors": [
+        {
+            "name": "suiran17",
+            "email": "2223410846@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "php": ">=7.0"
+    }
+}
