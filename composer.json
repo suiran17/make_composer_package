@@ -5,8 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-          "Flower\\Rose\\": "src/Flower/Rose",
-          "Flower\\Lily\\": "src/Flower/Lily"
+          "Flower\\": "src/Flower"
         }
     },
     "authors": [
