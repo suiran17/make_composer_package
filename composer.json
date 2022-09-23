@@ -1,5 +1,5 @@
 {
-    "name": "think_shanghai/try-make-package",
+    "name": "think_shanghai/make_composer_package",
     "description": "try make a pacakge",
     "type": "library",
     "license": "MIT",
