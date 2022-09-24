@@ -1,5 +1,5 @@
 <?php
-namespace Flower\Rose;
+namespace Flower;
 
 class Rose
 {
